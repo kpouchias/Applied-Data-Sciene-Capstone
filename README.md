@@ -7,4 +7,5 @@ The following data analysis procedures were used for this project:
 2) Data Wrangling
 3) EDA with SQL and Data Visualization(MatplotLib)
 4) Interactive Visual Analytics ( Data Visualization wiht folium and building a Dashboard with Ploty Dash)
-5) Machine Learnig Prediction
+5) Machine Learnig Prediction: 
+   I used Decision Tree classifier, Logistic Regression, Support Vector Machine and KNN combined with GridSearchCV to find the optimal paramateres for every model.
